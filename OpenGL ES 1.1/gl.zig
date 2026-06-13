@@ -176,8 +176,6 @@ pub extern fn glViewport(x: GLint, y: GLint, width: GLsizei, height: GLsizei) vo
 
 // OpenGL Constants
 
-pub const a: GLenum = 0x00;
-
 // OpenGL types
 
 pub const GL_FLOAT: GLenum = 0x1406;
